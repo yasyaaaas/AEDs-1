@@ -1,3 +1,4 @@
 # AEDs-1
 alguns códigos de AEDs 1
-códigos para olhar e tenatar entender depois
+</br>códigos para olhar e ver depois para relembrar
+
